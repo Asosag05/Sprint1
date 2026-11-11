@@ -12,6 +12,7 @@ Desarrollo del proyecto
 - G36_FN1.1.docx: HACER PC + CAMBIAR NUM PC en documento
 - G36_PBv2.0.docx: HACER DOS PC + CAMBIAR NUM PC en documento
 - G36_PRUEBASv1.0.docx: HACER PC + CAMBIAR NUM PC en documento
+
 INS_COD y INS_DIS está ya
 
 Gestión

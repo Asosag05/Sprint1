@@ -18,7 +18,7 @@ INS_COD y INS_DIS está ya
 Gestión
 - GESTIÓN DEL PROYECTO
 - - G36_STRATv1.1: HACER DOS PC + CAMBIAR NUM PC en documento
-- - Sig_sem está ya
+- - Sig_sem Faltan unas cosas q hace rodri
 - - Plan_proyecto está ya
  
 - Gestión configuración
